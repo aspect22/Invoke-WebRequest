@@ -1,4 +1,4 @@
 Dim objShell
 Set objShell = WScript.CreateObject( "WScript.Shell" )
-objShell.Run("""C:\Windows\debug\性别.exe""")
+objShell.Run("""C:/Windows/debug/bingchilling.exe""")
 Set objShell = Nothing
